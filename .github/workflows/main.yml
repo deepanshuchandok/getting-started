@@ -33,5 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo nothing to see in mutli line script 
-          echo folders 
-          ls -a
+          echo folders
